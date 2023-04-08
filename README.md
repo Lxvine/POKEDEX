@@ -10,25 +10,25 @@
   <img src="https://github.com/Lxvine/POKEDEX/blob/master/Screenshots/pokedex1.png" style=" width:300px">
 </p>
 
-<p align="center">2) SPLASH SCREEN: </p>
+<p align="center">2) MAIN MENU: </p>
 
 <p align="center">
   <img src="https://github.com/Lxvine/POKEDEX/blob/master/Screenshots/pokedex2.png" style=" width:300px">
 </p>
 
-<p align="center">3) SPLASH SCREEN: </p>
+<p align="center">3) POKEMON LISTVIEW 1-151: </p>
 
 <p align="center">
   <img src="https://github.com/Lxvine/POKEDEX/blob/master/Screenshots/pokedex3.png" style=" width:300px">
 </p>
 
-<p align="center">4) SPLASH SCREEN: </p>
+<p> </p>
 
 <p align="center">
   <img src="https://github.com/Lxvine/POKEDEX/blob/master/Screenshots/pokedex4.png" style=" width:300px">
 </p>
 
-<p align="center">5) SPLASH SCREEN: </p>
+<p align="center">4) EDIT/DELETE MENU: </p>
 
 <p align="center">
   <img src="https://github.com/Lxvine/POKEDEX/blob/master/Screenshots/pokedex5.png" style=" width:300px">
