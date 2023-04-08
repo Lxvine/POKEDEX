@@ -7,5 +7,5 @@
 <p align="center">1) SPLASH SCREEN: </p>
 
 <p align="center">
-  <img src="https://github.com/Lxvine/POKEDEX/blob/master/Screenshots/erp1.png" style=" width:300px">
+  <img src="https://github.com/Lxvine/POKEDEX/blob/master/Screenshots/pokedex1.png" style=" width:300px">
 </p>
